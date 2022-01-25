@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shashankvatsd
+- 👋 Hi, I’m Shashank Vats
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python3
-- 💞️ I’m looking to collaborate on Python3 projects
-- 📫 How to reach me ....
+- 🌱 I’m currently learning R
+- 💞️ I’m looking to collaborate on R projects
+- 📫 How to reach me <https://www.linkedin.com/in/shashank-vats/>
 
 <!---
 shashankvatsd/shashankvatsd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
